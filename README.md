@@ -17,7 +17,7 @@ width="800"  height="3">
 - ✍️ [我的博客](https://juejin.cn/user/706338062865527)
 - 💬 可以随时找我聊天/探讨/玩耍~
 - 📫 联系我: [email](mailto:1444622903@qq.com)
-- 👏 点个关注吧！: [![](https://img.shields.io/github/followers/ZhangXusen?label=follow%20me&style=social)](https://github.com/ZhangXusen/)
+- 👏 点个关注吧！: [![](https://img.shields.io/github/followers/WJKZS?label=follow%20me&style=social)](https://github.com/ZhangXusen/)
 - 🎣 业余爱好: 读书 , 看电影, 玩游戏 , 锻炼 (篮球,台球,游泳) , 思考...
 
 **「追风赶月莫停留,平芜尽处是春山.」** ❤️
